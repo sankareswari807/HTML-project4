@@ -1,0 +1,44 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+table{
+    width: 100%;
+}
+
+.table{
+    border: 2px solid black;
+    margin: 10px;
+}
+
+td{
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.head-1,.head-2{
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.head-3,.head-4{
+    width: 33%;
+    border: 2px solid black;
+    font-size: 20px;
+}
+
+.head-5{
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.head-6{
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 20px;
+}
